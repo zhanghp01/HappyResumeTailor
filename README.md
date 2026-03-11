@@ -1,4 +1,4 @@
-[HappyResumeTailor.pdf](https://github.com/user-attachments/files/25914759/HappyResumeTailor.pdf)# HappyResumeTailor
+# HappyResumeTailor
 
 A web application that uses AI to tailor your resume bullet points to match a specific job description. Upload your resume, review the parsed sections, paste a job description, and get a side-by-side comparison of your original and AI-rewritten bullet points — with per-bullet Accept/Edit/Keep controls and DOCX export.
 
